@@ -1,0 +1,8 @@
+
+# IDE / Scala Metals files
+.metals/
+.vscode/
+.bloop/
+sprint2-app/.metals/
+sprint2-app/.bloop/
+target/
